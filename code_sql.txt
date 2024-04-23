@@ -1,3 +1,4 @@
+# THIS ARE THE ORCALE SQL STATEMENT's :)
 
 select *from data_analyse_project;
 
